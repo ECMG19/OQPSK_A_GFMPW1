@@ -1,14 +1,20 @@
-# Caravel User Project
+**OQPSK Modulator in Verilog**
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![UPRJ_CI](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml) [![Caravel Build](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml)
+This repository contains the Verilog implementation of an OQPSK (Offset Quadrature Phase Shift Keying) modulator, developed at the Center for Research and Advanced Studies (CINVESTAV) of the National Polytechnic Institute (IPN) in Mexico, Guadalajara Unit.
 
-| :exclamation: Important Note            |
-|-----------------------------------------|
+**Description:**
 
-## Please fill in your project documentation in this README.md file 
+The OQPSK modulator is a crucial component in digital communication systems. It employs the OQPSK modulation technique to transmit data efficiently and reliably. The OQPSK modulation scheme involves a two-stage phase shift, helping minimize the probability of errors and enhancing system robustness against adverse channel conditions.
 
-Refer to [README](docs/source/index.rst#section-quickstart) for a quickstart of how to use caravel_user_project
+**Key Features:**
 
-Refer to [README](docs/source/index.rst) for this sample project documentation. 
+- Verilog implementation for use in FPGA and ASIC devices.
+- Designed for advanced digital communication systems.
+- Developed at the Center for Research and Advanced Studies of the IPN in Mexico, Guadalajara Unit.
 
-Refer to the following [readthedocs](https://caravel-sim-infrastructure.readthedocs.io/en/latest/index.html) for how to add cocotb tests to your project. 
+
+**About CINVESTAV-IPN:**
+
+The Center for Research and Advanced Studies (CINVESTAV) of the National Polytechnic Institute (IPN) in Mexico, Guadalajara Unit, is a center of excellence in research and advanced education. This project was developed by researchers and students dedicated to advancing digital communication technology.
+
+
